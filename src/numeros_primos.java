@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class numeros_primos {
     
@@ -11,14 +11,14 @@ public class numeros_primos {
 
         System.out.println("Los números primos entre " + min + " y " + max + " son:");
 
-        for(int j = min; )
         for(int i = min; i<= max; i++){
             if(i == 1){
-                i++;
-         
-            
+                i++;            
+        }
+        if else (i){
+
         }
 
         scanner.close();
     }
-}
+}*/
