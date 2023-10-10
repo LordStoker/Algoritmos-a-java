@@ -4,7 +4,7 @@ public class rangos_notas {
 
     public static void main(String[] args) throws Exception {
      Scanner scanner = new Scanner(System.in);
-     int nota;    
+     float nota;    
 
      System.out.println("Introduce el un número");
      nota = scanner.nextInt();
